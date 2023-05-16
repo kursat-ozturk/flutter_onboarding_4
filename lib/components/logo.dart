@@ -14,7 +14,7 @@ class Logo extends StatelessWidget {
           width: 35,
         ),
         const Text(
-          'Leafboard',
+          'Appdivity',
           style: TextStyle(
             color: Color.fromARGB(255, 17, 27, 49),
             fontSize: 25,

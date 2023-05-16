@@ -7,7 +7,7 @@ class HomePage extends StatelessWidget {
   Widget build(BuildContext context) {
     return const Scaffold(
       body: Center(
-        child: Text('Home Page'),
+        child: Text('Welcome to Home Page'),
       ),
     );
   }
